@@ -4,6 +4,17 @@
 
 EduRank, kullanıcıların test çözerek, çalışma ilerlemelerini takip ederek ve performanslarını analiz ederek verimli bir çalışma süreci oluşturmasını sağlayan mobil tabanlı bir uygulamadır. Kullanıcılar çalışma sürelerini ve başarı oranlarını arkadaşlarıyla karşılaştırabilir, böylece tatlı bir rekabet ortamında motive olabilirler.
 
+
+Benim Görevim:
+
+✅ Veritabanı Entegrasyonu ve API Testleri
+
+Backend tarafında temel veritabanı bağlantılarını kurdum ve kullanıcı kayıt/giriş işlemlerini test ettim.
+
+Postman üzerinden API isteklerini çalıştırarak verilerin veritabanına doğru kaydedildiğini doğruladım.
+
+Geliştirilen backend kodlarını veritabanı ile entegre ederek temel CRUD işlemlerini test ettim.
+
 🚀 Özellikler
 
 📋 Kullanıcı Kaydı & Girişi: Kullanıcılar hesap oluşturabilir ve kimlik doğrulama mekanizması ile giriş yapabilir.
